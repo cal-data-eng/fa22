@@ -7,7 +7,7 @@ description: A listing of all the course staff members.
 
 # Staff
 
-## Instructors
+## Instructor
 
 <div class="role">
   {% assign instructors = site.staffers | where: 'role', 'Instructor' %}
@@ -25,7 +25,7 @@ description: A listing of all the course staff members.
   {% endfor %}
 </div>
 
-## Readers
+## Reader
 
 <div class="role">
   {% assign readers = site.staffers | where: 'role', 'Reader' %}

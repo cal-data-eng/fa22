@@ -14,7 +14,7 @@ UC Berkeley, Fall 2022
 
 <div>
 
-{% assign instructors = site.staffers | where: 'role', 'Instructor' %}
+{% assign instructors = site.staffers | where: 'role', 'Instructor Home' %}
 <div class="role">
   {% for staffer in instructors %}
   {{ staffer }}
@@ -61,3 +61,4 @@ Welcome to the first official offering of Data 101! The schedule and dates liste
 |  | Th 12/1 | TBD | | |
 | 15 | Tu 12/6 | **RRR Week** | | |
 |  | Th 12/8 | **RRR Week** | | |
+| 16 | Th 12/15 | **Final Exam (11:30am - 2:30pm)** | | |

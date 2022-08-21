@@ -2,7 +2,10 @@
 name: Shreya Shankar
 role: Teaching Assistant
 email: shreyashankar@berkeley.edu
-# photo: ../resources/assets/staff_pics/Samy_Cherfaoui.jpg
+website: https://www.shreyashankar.com/
+photo: ../resources/assets/staff_pics/Shreya_Shankar.jpg
 # oh: Tu 4-5PM
-# pronouns: he/him/his
+pronouns: she/her/hers
 ---
+
+PhD student in databases, working on MLOps.
