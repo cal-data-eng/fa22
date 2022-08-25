@@ -30,35 +30,35 @@ Welcome to the first official offering of Data 101! The schedule and dates liste
 
 | Week | Date | Lecture | Discussion | Assignment |
 | :--: | :--: | :--: | :--: | :--: |
-| 0 | Th 8/25 | 1. Introduction & Data Science Lifecycle | | |
+| 0 | Th 8/25 | 1. Introduction & Data Science Lifecycle | | [Pre-semester Survey](https://docs.google.com/forms/d/e/1FAIpQLSclpNZ2_prU96JD9Uz59EU3Pk9-1gWQDmvpaBBxQtKUlA8rew/viewform) |
 | 1 | Tu 8/30 | 2. Relational Model & Algebra | | |
 |  | Th 9/1 | 3. SQL Intro | | |
 | 2 | Tu 9/6 | 4. Views | | |
-|  | Th 9/8 | 5.  Subqueries and Aggregation | | Project 1 (due 9/22) |
+|  | Th 9/8 | 5.  Subqueries and Aggregation | | Project 1 (due 9/23) |
 | 3 | Tu 9/13 | 6. Window Functions, Sampling, String Manipulation | | |
 |  | Th 9/15 | 7. Updates, DDL, Referential Integrity, Constraints | | Multivitamin 1 (due 9/27)|
 | 4 | Tu 9/20 | 8. Index Selection, Query Processing & Optimization | | |
-|  | Th 9/22 | 9. Index Selection, Query Processing & Optimization (II) | | Project 2 (due 10/6) |
+|  | Th 9/22 | 9. Index Selection, Query Processing & Optimization (II) | | Project 2 (due 10/7) |
 | 5 | Tu 9/27 | 10. Relations, Tensors, Dataframes | | |
 |  | Th 9/29 | 11. Relations, Tensors and Dataframes (II) | | Multivitamin 2 (due 10/11) |
 | 6 | Tu 10/4 | 12. Data Preparation | | |
-|  | Th 10/6 | 13. Data Preparation (II) | |
-| 7 | Tu 10/11 | 14. Data Cleaning | | Project 3 (due 10/25) |
-|  | Th 10/13 |  15. Data Cleaning (II) | | |
-| 8 | Tu 10/18 | 16. Normalization and ER | | Multivitamin 3 (due 10/27) |
+|  | Th 10/6 | 13. Data Preparation (II) | | Project 3 (due 10/21) |
+| 7 | Tu 10/11 | 14. Data Cleaning | | |
+|  | Th 10/13 |  15. Data Cleaning (II) | | Multivitamin 3 (due 10/25) |
+| 8 | Tu 10/18 | 16. Normalization and ER | | |
 |  | Th 10/20 | 17. Semistructured Data | | |
 | 9 | Tu 10/25 | 18. Querying Semistructured Data | | |
-|  | Th 10/27 | 19. Spreadsheets | | Project 4 (due 11/10) |
+|  | Th 10/27 | 19. Spreadsheets | | Project 4 (due 11/11) |
 | 10 | Tu 11/1 | 20. Graph Data: Property Graph Models, Triples/RDF | |
 |  | Th 11/3 | 21. SQL Modifications, Transactions and Recovery | | Multivitamin 4 (due 11/15) |
-| 11 | Tu 11/8 | 22. Data Pipelines | | |
-|  | Th 11/10 | 23. Sampling and Sketching | | |
-| 12 | Tu 11/15 | 24. Storage Types | | Project 5 (due 12/1) |
-|  | Th 11/17 | 25. ML: Model Training, Serving, and Monitoring | | |
-| 13 | Tu 11/22 | 26. Parallelization: Map-Reduce, Spark, Parallel DBMS, Dask/Modin | | Multivitamin 5 (due 12/1) |
+| 11 | Tu 11/8 | **No Lecture (Election Day)** | | |
+|  | Th 11/10 | 22. Data Pipelines | | |
+| 12 | Tu 11/15 | 23. Storage Types | | Project 5 (due 12/2) |
+|  | Th 11/17 | 24. ML: Model Training, Serving, and Monitoring | | |
+| 13 | Tu 11/22 | 25. Parallelization: Map-Reduce, Spark, Parallel DBMS, Dask/Modin | | Multivitamin 5 (due 12/2) |
 |  | Th 11/24 | **Thanksgiving Break** | | |
-| 14 | Tu 11/29 | TBD | | |
-|  | Th 12/1 | TBD | | |
+| 14 | Tu 11/29 | 26. Distributed Transactions | | |
+|  | Th 12/1 | Closing Thoughts | | |
 | 15 | Tu 12/6 | **RRR Week** | | |
 |  | Th 12/8 | **RRR Week** | | |
 | 16 | Th 12/15 | **Final Exam (11:30am - 2:30pm)** | | |

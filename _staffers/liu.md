@@ -1,10 +1,10 @@
 ---
-name: Luke Liu
+name: Evelyn Liu
 role: Teaching Assistant
-email: lukeliu@berkeley.edu
-photo: ../resources/assets/staff_pics/Luke_Liu.jpg
+email: evelynliu16@berkeley.edu
+photo: ../resources/assets/staff_pics/Evelyn_Liu.jpg
 # oh: Tu 4-5PM
-pronouns: he/him/his
+pronouns: she/her/hers
 ---
 
-Hey! I'm Luke, and I am a senior from Toronto majoring in CS & DS. In my free time, I enjoy playing ping-pong, poker, and exploring new (food) places. Looking forward to a great semester!
+Hi! My name is Evelyn, and I’m a senior studying in Computer Science. I enjoy exploring food places and doing fun outdoor activities during my free time, and you can definitely catch me at some concerts this semester. Look forward to a fun semester with y’all :)
