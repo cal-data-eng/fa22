@@ -30,7 +30,7 @@ Welcome to the first official offering of Data 101! The schedule and dates liste
 
 | Week | Date | Lecture | Discussion | Assignment |
 | :--: | :--: | :--: | :--: | :--: |
-| 0 | Th 8/25 | 1. Introduction & Data Science Lifecycle | | [Pre-semester Survey](https://docs.google.com/forms/d/e/1FAIpQLSclpNZ2_prU96JD9Uz59EU3Pk9-1gWQDmvpaBBxQtKUlA8rew/viewform) |
+| 0 | Th 8/25 | 1. [Introduction & Data Science Lifecycle](https://docs.google.com/presentation/d/1Gt1-JjGJfBlEAXjjrYehG-SBz5_Z03Ba/edit?usp=sharing&rtpof=true&sd=true) | | [Pre-semester Survey](https://docs.google.com/forms/d/e/1FAIpQLSclpNZ2_prU96JD9Uz59EU3Pk9-1gWQDmvpaBBxQtKUlA8rew/viewform) |
 | 1 | Tu 8/30 | 2. Relational Model & Algebra | | |
 |  | Th 9/1 | 3. SQL Intro | | |
 | 2 | Tu 9/6 | 4. Views | | |
