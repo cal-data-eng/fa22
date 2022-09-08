@@ -34,9 +34,9 @@ Welcome to the first official offering of Data 101! The schedule and dates liste
 | 1 | Tu 8/30 | 2. [Relational Model & Algebra](https://docs.google.com/presentation/d/1bkp06s17Z5v5zZI4QPaoqFyX3VEWSU8w/edit?usp=sharing&ouid=104245339946787511318&rtpof=true&sd=true) ([Recording](https://drive.google.com/file/d/15s_RF0qYY2MJq6BVGk7zT8AiqkDOuTC4/view?usp=sharing)) | | |
 |  | Th 9/1 | 3. [SQL Intro](https://docs.google.com/presentation/d/1RdDhxbL73BLpgxPR86qZ5JWT6uEZsKpU/edit?usp=sharing&ouid=115426255420868042566&rtpof=true&sd=true) ([Recording](https://drive.google.com/file/d/1Kt7NASzW8rWYRpHxHTzNVki5PjaPv4lE/view?usp=sharing), [Note](./resources/assets/notes/1.pdf))| | |
 | 2 | Tu 9/6 | 4. [Subqueries and Aggregation](https://docs.google.com/presentation/d/1H1B4Tx3FaxzOHNaKQkYpbTHXj_37Uo56/edit?usp=sharing&ouid=101709100734010871255&rtpof=true&sd=true) | | |
-|  | Th 9/8 | 5. Window Functions, Sampling, String Manipulation | | Project 1 (due 9/23) |
+|  | Th 9/8 | 5. Window Functions, Sampling, String Manipulation | | [Project 1](https://data101.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcal-data-eng%2Ffa22&urlpath=tree%2Ffa22%2Fproj%2Fproj1%2Fproj1.ipynb&branch=main) (due 9/23) |
 | 3 | Tu 9/13 | 6. Updates, DDL, Referential Integrity, Constraints  | | |
-|  | Th 9/15 | 7. TBD | | Multivitamin 1 (due 9/30)|
+|  | Th 9/15 | 7. TBD | | Multivitamin 1 (due 9/30) |
 | 4 | Tu 9/20 | 8. Index Selection, Query Processing & Optimization | | |
 |  | Th 9/22 | 9. Index Selection, Query Processing & Optimization (II) | | Project 2 (due 10/7) |
 | 5 | Tu 9/27 | 10. Relations, Tensors, Dataframes | | |
