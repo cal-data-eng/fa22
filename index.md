@@ -33,7 +33,7 @@ Welcome to the first official offering of Data 101! The schedule and dates liste
 | 0 | Th 8/25 | 1. [Introduction & Data Science Lifecycle](https://docs.google.com/presentation/d/1Gt1-JjGJfBlEAXjjrYehG-SBz5_Z03Ba/edit?usp=sharing&rtpof=true&sd=true) ([Recording](https://drive.google.com/file/d/1oFiC7cLAOT42-lOsfkKxaJw2-0cnZstB/view?usp=sharing)) | | [Pre-semester Survey](https://docs.google.com/forms/d/e/1FAIpQLSclpNZ2_prU96JD9Uz59EU3Pk9-1gWQDmvpaBBxQtKUlA8rew/viewform) |
 | 1 | Tu 8/30 | 2. [Relational Model & Algebra](https://docs.google.com/presentation/d/1bkp06s17Z5v5zZI4QPaoqFyX3VEWSU8w/edit?usp=sharing&ouid=104245339946787511318&rtpof=true&sd=true) ([Recording](https://drive.google.com/file/d/15s_RF0qYY2MJq6BVGk7zT8AiqkDOuTC4/view?usp=sharing)) | | |
 |  | Th 9/1 | 3. [SQL Intro](https://docs.google.com/presentation/d/1RdDhxbL73BLpgxPR86qZ5JWT6uEZsKpU/edit?usp=sharing&ouid=115426255420868042566&rtpof=true&sd=true) ([Recording](https://drive.google.com/file/d/1Kt7NASzW8rWYRpHxHTzNVki5PjaPv4lE/view?usp=sharing), [Note](./resources/assets/notes/1.pdf))| | |
-| 2 | Tu 9/6 | 4. [Subqueries and Aggregation](https://docs.google.com/presentation/d/1H1B4Tx3FaxzOHNaKQkYpbTHXj_37Uo56/edit?usp=sharing&ouid=101709100734010871255&rtpof=true&sd=true) | | |
+| 2 | Tu 9/6 | 4. [Subqueries and Aggregation](https://docs.google.com/presentation/d/1H1B4Tx3FaxzOHNaKQkYpbTHXj_37Uo56/edit?usp=sharing&ouid=101709100734010871255&rtpof=true&sd=true) ([Recording](https://drive.google.com/file/d/1TNQffowL1IuRmSKMi91asb8D5hlGjCb1/view?usp=sharing)) | | |
 |  | Th 9/8 | 5. Window Functions, Sampling, String Manipulation | | Project 1 (due 9/23) |
 | 3 | Tu 9/13 | 6. Updates, DDL, Referential Integrity, Constraints  | | |
 |  | Th 9/15 | 7. TBD | | Multivitamin 1 (due 9/30)|
