@@ -36,28 +36,28 @@ Welcome to the first official offering of Data 101! The schedule and dates liste
 | 2 | Tu 9/6 | 4. [Subqueries and Aggregation](https://docs.google.com/presentation/d/1H1B4Tx3FaxzOHNaKQkYpbTHXj_37Uo56/edit?usp=sharing&ouid=101709100734010871255&rtpof=true&sd=true) ([Recording](https://drive.google.com/file/d/1TNQffowL1IuRmSKMi91asb8D5hlGjCb1/view?usp=sharing), [Note](./resources/assets/notes/2.pdf))| | |
 |  | Th 9/8 | 5. [Window Functions, Sampling, String Manipulation](https://docs.google.com/presentation/d/14nlI3Bov_LR7-JRYVEEHtke6YbNYW7ci/edit?usp=sharing&ouid=101709100734010871255&rtpof=true&sd=true) ([Recording](https://drive.google.com/file/d/1T0Q9mPb0cpek3sSx17d2GIoq54ybfndk/view?usp=sharing)) | | [Project 1](https://data101.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcal-data-eng%2Ffa22&urlpath=tree%2Ffa22%2Fproj%2Fproj1%2Fproj1.ipynb&branch=main) (due 9/23) |
 | 3 | Tu 9/13 | 6. [Updates, DDL, Referential Integrity, Constraints](https://docs.google.com/presentation/d/1CwLqU6vLo_onqtI-AGekMDhp28XxquuE/edit?usp=sharing&ouid=101709100734010871255&rtpof=true&sd=true) ([Recording](https://drive.google.com/file/d/1Ellx0gec7s4kRzb2qoEk9AgDVTlL31Zz/view?usp=sharing)) | [Discussion 1](https://drive.google.com/file/d/1xjwN6K9sexbh-l-VH0WsYILcdWlYgawI/view?usp=sharing) ([Slides](https://docs.google.com/presentation/d/1jnuDwTvQMTF8Z0Jd6bxIZd7jFbnz9-s-WW9GAySzN8E/edit?usp=sharing)) | |
-|  | Th 9/15 | 7. TBD | | Multivitamin 1 (due 9/30) |
-| 4 | Tu 9/20 | 8. Index Selection, Query Processing & Optimization | | |
-|  | Th 9/22 | 9. Index Selection, Query Processing & Optimization (II) | | Project 2 (due 10/7) |
-| 5 | Tu 9/27 | 10. Relations, Tensors, Dataframes | | |
-|  | Th 9/29 | 11. Relations, Tensors and Dataframes (II) | | Multivitamin 2 (due 10/14) |
-| 6 | Tu 10/4 | 12. Data Preparation | | |
-|  | Th 10/6 | 13. Data Preparation (II) | | Project 3 (due 10/21) |
-| 7 | Tu 10/11 | 14. Data Cleaning | | |
-|  | Th 10/13 |  15. Data Cleaning (II) | | Multivitamin 3 (due 10/28) |
-| 8 | Tu 10/18 | 16. Normalization and ER | | |
-|  | Th 10/20 | 17. Semistructured Data | | |
-| 9 | Tu 10/25 | 18. Querying Semistructured Data | | |
-|  | Th 10/27 | 19. Spreadsheets | | Project 4 (due 11/11) |
-| 10 | Tu 11/1 | 20. Graph Data: Property Graph Models, Triples/RDF | |
-|  | Th 11/3 | 21. SQL Modifications, Transactions and Recovery | | Multivitamin 4 (due 11/18) |
+|  | Th 9/15 | **No Lecture** | | [Multivitamin 1](https://www.gradescope.com/courses/421137/assignments/2255543) (due 9/30) |
+| 4 | Tu 9/20 | 7. Index Selection, Query Processing & Optimization | | |
+|  | Th 9/22 | 8. Index Selection, Query Processing & Optimization (II) | | Project 2 (due 10/7) |
+| 5 | Tu 9/27 | 9. Relations, Tensors, Dataframes | | |
+|  | Th 9/29 | 10. Relations, Tensors and Dataframes (II) | | Multivitamin 2 (due 10/14) |
+| 6 | Tu 10/4 | 11. Data Preparation | | |
+|  | Th 10/6 | 12. Data Preparation (II) | | Project 3 (due 10/21) |
+| 7 | Tu 10/11 | 13. Data Cleaning | | |
+|  | Th 10/13 |  14. Data Cleaning (II) | | Multivitamin 3 (due 10/28) |
+| 8 | Tu 10/18 | 15. Normalization and ER | | |
+|  | Th 10/20 | 16. Semistructured Data | | |
+| 9 | Tu 10/25 | 17. Querying Semistructured Data | | |
+|  | Th 10/27 | 18. Spreadsheets | | Project 4 (due 11/11) |
+| 10 | Tu 11/1 | 19. Graph Data: Property Graph Models, Triples/RDF | |
+|  | Th 11/3 | 20. SQL Modifications, Transactions and Recovery | | Multivitamin 4 (due 11/18) |
 | 11 | Tu 11/8 | **No Lecture (Election Day)** | | |
-|  | Th 11/10 | 22. Data Pipelines | | |
-| 12 | Tu 11/15 | 23. Storage Types | | Project 5 (due 12/2) |
-|  | Th 11/17 | 24. ML: Model Training, Serving, and Monitoring | | |
-| 13 | Tu 11/22 | 25. Parallelization: Map-Reduce, Spark, Parallel DBMS, Dask/Modin | | Multivitamin 5 (due 12/2) |
+|  | Th 11/10 | 21. Data Pipelines | | |
+| 12 | Tu 11/15 | 22. Storage Types | | Project 5 (due 12/2) |
+|  | Th 11/17 | 23. ML: Model Training, Serving, and Monitoring | | |
+| 13 | Tu 11/22 | 24. Parallelization: Map-Reduce, Spark, Parallel DBMS, Dask/Modin | | Multivitamin 5 (due 12/2) |
 |  | Th 11/24 | **Thanksgiving Break** | | |
-| 14 | Tu 11/29 | 26. Distributed Transactions | | |
+| 14 | Tu 11/29 | 25. Distributed Transactions | | |
 |  | Th 12/1 | Closing Thoughts | | |
 | 15 | Tu 12/6 | **RRR Week** | | |
 |  | Th 12/8 | **RRR Week** | | |
