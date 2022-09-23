@@ -11,11 +11,11 @@ thead th:nth-of-type(2) {
 }
 
 thead th:nth-of-type(4) {
-    width: 18.8%;
+    width: 18%;
 }
 
 thead th:nth-of-type(5) {
-    width: 18.8%;
+    width: 18%;
 }
 
 tbody tr:nth-of-type(2) td {
