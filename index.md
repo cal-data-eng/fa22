@@ -40,22 +40,22 @@ Welcome to the first official offering of Data 101! The schedule and dates liste
 | 4 | Tu 9/20 | 7. [Foreign Keys, Index Selection](https://docs.google.com/presentation/d/1gfm0CVfotsOSB2jLkgCqvDPXkcNqWVlD/edit?usp=sharing&ouid=115426255420868042566&rtpof=true&sd=true) ([Recording](https://drive.google.com/file/d/1TA-OL6M5WCtVUhoxtFUXabfRfwPisWpL/view?usp=sharing), [Note](./resources/assets/notes/4.pdf)) | [Discussion 2](https://drive.google.com/file/d/15lBP4k3Kd0LqTh8-6JWOOHXmslfRE0DK/view?usp=sharing) ([Slides](https://drive.google.com/drive/folders/1GRQa38gl36EToOETKUWgmLVyZVw-awuV?usp=sharing)) ([Solutions](https://drive.google.com/file/d/1LUfpMVKVlOKLb-iha9K3TzhzDFJ6KfpJ/view?usp=sharing)) | |
 |  | Th 9/22 | 8. [Index Selection, Query Processing & Optimization](https://docs.google.com/presentation/d/1wvhl7XgnyWsBpwRbz1TREMOVXDs5VxVb/edit?usp=sharing&ouid=101709100734010871255&rtpof=true&sd=true) ([Recording](https://drive.google.com/file/d/1iF2sLlHB1Z_-J2ECgof2wkjHceJj2Pj2/view?usp=sharing)) | | [Project 2](https://data101.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcal-data-eng%2Ffa22&urlpath=tree%2Ffa22%2Fproj%2Fproj2%2Fproj2.ipynb&branch=main) (due 10/7) |
 | 5 | Tu 9/27 | 9. [Query Processing & Optimization (II)](https://docs.google.com/presentation/d/1JV3lYNAydpJuHD4uAy1xX87WirvLwiHo/edit?usp=sharing&ouid=101709100734010871255&rtpof=true&sd=true) ([Recording](https://drive.google.com/file/d/1Gld5M6vlNoHRJhHAVLH_4hCUx08NRZGP/view?usp=sharing)) | [Discussion 3](https://drive.google.com/file/d/1ST-uzv0m_CKhHzrXuIDO3tFIQoOeoYCt/view?usp=sharing) ([Slides](https://drive.google.com/drive/folders/1GRQa38gl36EToOETKUWgmLVyZVw-awuV?usp=sharing)) ([Solutions](https://drive.google.com/file/d/1Nrds39H71Ko083cTiXaThU_HidOY5ROp/view?usp=sharing)) | |
-|  | Th 9/29 | 10. [Relations, Tensors and Dataframes](https://docs.google.com/presentation/d/1W_LMiZQb5U5-nfK8iI3S7kEpSovgSMjw/edit?usp=sharing&ouid=101709100734010871255&rtpof=true&sd=true) ([Recording](https://drive.google.com/file/d/1Ji9oGGTwxTxPWPS_4JA6I2d54KM-8DCV/view?usp=sharing), [Note](./resources/assets/notes/5.pdf)) | | Multivitamin 2 (due 10/14) |
+|  | Th 9/29 | 10. [Relations, Tensors and Dataframes](https://docs.google.com/presentation/d/1W_LMiZQb5U5-nfK8iI3S7kEpSovgSMjw/edit?usp=sharing&ouid=101709100734010871255&rtpof=true&sd=true) ([Recording](https://drive.google.com/file/d/1Ji9oGGTwxTxPWPS_4JA6I2d54KM-8DCV/view?usp=sharing), [Note](./resources/assets/notes/5.pdf)) | | [Multivitamin 2](https://www.gradescope.com/courses/421137/assignments/2273057) (due 10/14) |
 | 6 | Tu 10/4 | 11. Data Preparation | | |
-|  | Th 10/6 | 12. Data Preparation (II) | | Project 3 (due 10/21) |
+|  | Th 10/6 | 12. Data Preparation (II) | | Multivitamin 3 (due 10/21) |
 | 7 | Tu 10/11 | 13. Data Cleaning | | |
-|  | Th 10/13 |  14. Data Cleaning (II) | | Multivitamin 3 (due 10/28) |
+|  | Th 10/13 |  14. Data Cleaning (II) | | Project 3 (due 10/28) |
 | 8 | Tu 10/18 | 15. Normalization and ER | | |
-|  | Th 10/20 | 16. Semistructured Data | | |
+|  | Th 10/20 | 16. Semistructured Data | | Multivitamin 4 (due 11/4) |
 | 9 | Tu 10/25 | 17. Querying Semistructured Data | | |
 |  | Th 10/27 | 18. Spreadsheets | | Project 4 (due 11/11) |
 | 10 | Tu 11/1 | 19. Graph Data: Property Graph Models, Triples/RDF | |
-|  | Th 11/3 | 20. SQL Modifications, Transactions and Recovery | | Multivitamin 4 (due 11/18) |
+|  | Th 11/3 | 20. SQL Modifications, Transactions and Recovery | | Multivitamin 5 (due 11/18) |
 | 11 | Tu 11/8 | **No Lecture (Election Day)** | | |
 |  | Th 11/10 | 21. Data Pipelines | | |
 | 12 | Tu 11/15 | 22. Storage Types | | Project 5 (due 12/2) |
 |  | Th 11/17 | 23. ML: Model Training, Serving, and Monitoring | | |
-| 13 | Tu 11/22 | 24. Parallelization: Map-Reduce, Spark, Parallel DBMS, Dask/Modin | | Multivitamin 5 (due 12/2) |
+| 13 | Tu 11/22 | 24. Parallelization: Map-Reduce, Spark, Parallel DBMS, Dask/Modin | | |
 |  | Th 11/24 | **Thanksgiving Break** | | |
 | 14 | Tu 11/29 | 25. Distributed Transactions | | |
 |  | Th 12/1 | Closing Thoughts | | |
