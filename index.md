@@ -48,16 +48,16 @@ Welcome to the first official offering of Data 101! The schedule and dates liste
 | 8 | Tu 10/18 | 15. [Normalization and ER](https://docs.google.com/presentation/d/1GogwyAylHrJoxer_apIkgnWDqC9LxTQ8/edit?usp=sharing&ouid=101709100734010871255&rtpof=true&sd=true) ([Recording](https://drive.google.com/file/d/1oe8IuMpwayJEoWOxY8Zpv1ruinE_VrBs/view?usp=sharing))| [Discussion 6](https://colab.research.google.com/drive/1DMVvMz3qUnP5nMrOnL0LA4dwoYQ4yn-c?usp=sharing) ([Solutions](https://colab.research.google.com/drive/1KQfZAXMMYbKOoXczu8yUOYfzO3YsRpKZ?usp=sharing)) | |
 |  | Th 10/20 | 16. [NoSQL & Semistructured Data](https://docs.google.com/presentation/d/1ns2-alpBdQ0dnMs_YWhEBwgr-nYx05ufWgr9SGTGAfc/edit) ([Recording](https://drive.google.com/file/d/19lFU3Hb8d2XI1c7zwAQ0aTsRqFaT3Y4A/view?usp=sharing))| | Multivitamin 4 (due 11/4) |
 | 9 | Tu 10/25 | 17. Querying Semistructured Data | | |
-|  | Th 10/27 | 18. Spreadsheets | | Project 4 (due 11/11) |
-| 10 | Tu 11/1 | 19. Graph Data: Property Graph Models, Triples/RDF | |
-|  | Th 11/3 | 20. SQL Modifications, Transactions and Recovery | | Multivitamin 5 (due 11/18) |
+|  | Th 10/27 | 18. Graph Data: Property Graph Models, Triples/RDF | | Project 4 (due 11/11) |
+| 10 | Tu 11/1 | 19. SQL Modifications, Transactions and Recovery | |
+|  | Th 11/3 | 20. Parallelization: Map-Reduce, Spark, Parallel DBMS, Dask/Modin | | Multivitamin 5 (due 11/18) |
 | 11 | Tu 11/8 | **No Lecture (Election Day)** | | |
 |  | Th 11/10 | 21. Data Pipelines | | |
 | 12 | Tu 11/15 | 22. Storage Types | | Project 5 (due 12/2) |
 |  | Th 11/17 | 23. ML: Model Training, Serving, and Monitoring | | |
-| 13 | Tu 11/22 | 24. Parallelization: Map-Reduce, Spark, Parallel DBMS, Dask/Modin | | |
-|  | Th 11/24 | **Thanksgiving Break** | | |
-| 14 | Tu 11/29 | 25. Distributed Transactions | | |
+| 13 | Tu 11/22 | **No Lecture (Thanksgiving)** | | |
+|  | Th 11/24 | **No Lecture (Thanksgiving)** | | |
+| 14 | Tu 11/29 | 24. Distributed Transactions | | |
 |  | Th 12/1 | Closing Thoughts | | |
 | 15 | Tu 12/6 | **RRR Week** | | |
 |  | Th 12/8 | **RRR Week** | | |
