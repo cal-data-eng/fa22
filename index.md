@@ -53,8 +53,8 @@ Welcome to the first official offering of Data 101! The schedule and dates liste
 |  | Th 11/3 | 20. [Parallel and Distributed Computing](https://drive.google.com/file/d/1cx4WY76STJb6y97OKXjIpUTbl66wjmif/view?usp=share_link) ([Recording](https://drive.google.com/file/d/1QF58Bp9k90Cd2KtOZSZ4n-s7sxpNMUy-/view?usp=share_link)) | | [Multivitamin 5](https://www.gradescope.com/courses/421137/assignments/2404589) (due 11/18) |
 | 11 | Tu 11/8 | **No Lecture (Election Day)** | [Discussion 9](https://drive.google.com/file/d/1Zdnc_EA28VjSV8uCPnj8EE-Yv5sZiaDi/view?usp=sharing) ([Slides](https://drive.google.com/drive/folders/1GRQa38gl36EToOETKUWgmLVyZVw-awuV?usp=sharing)) ([Solutions](https://drive.google.com/file/d/1CuQzVDQrQzcUBaIn52-Y8Y3JaNVLvx9X/view?usp=sharing)) | |
 |  | Th 11/10 | 21. [Data Pipelines](https://docs.google.com/presentation/d/1qb_s6qW1Ya2CozM-5FD-BrDf8M7s8bBT/edit?usp=sharing) | | |
-| 12 | Tu 11/15 | 22.[OLAP + Visualizations](https://docs.google.com/presentation/d/1zAx7QFSRoWJi545na96Qi2ZOw0ri3cbh/edit?usp=share_link&ouid=101709100734010871255&rtpof=true&sd=true) | [Discussion 10](https://drive.google.com/file/d/1jvaDGW2pkzEbN53U_8ms_ZNTN-JdxbX5/view?usp=share_link) ([Solutions](https://drive.google.com/file/d/1bXINfHWTIpPuePFgwMHOVGtshYDytPWX/view?usp=share_link)) | Project 5 (due 12/2) |
-|  | Th 11/17 | 23. ML: Model Training, Serving, and Monitoring | | |
+| 12 | Tu 11/15 | 22.[OLAP + Visualizations](https://docs.google.com/presentation/d/1zAx7QFSRoWJi545na96Qi2ZOw0ri3cbh/edit?usp=share_link&ouid=101709100734010871255&rtpof=true&sd=true) ([Recording](https://drive.google.com/file/d/1DnrCxlsmVHyy2sxCBBOXcUar2N8_9C0I/view?usp=share_link)) | [Discussion 10](https://drive.google.com/file/d/1jvaDGW2pkzEbN53U_8ms_ZNTN-JdxbX5/view?usp=share_link) ([Solutions](https://drive.google.com/file/d/1bXINfHWTIpPuePFgwMHOVGtshYDytPWX/view?usp=share_link)) | Project 5 (due 12/2) |
+|  | Th 11/17 | 23. Transactions | | |
 | 13 | Tu 11/22 | **No Lecture (Thanksgiving)** | | |
 |  | Th 11/24 | **No Lecture (Thanksgiving)** | | |
 | 14 | Tu 11/29 | 24. Distributed Transactions | | |
