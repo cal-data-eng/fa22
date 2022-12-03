@@ -57,7 +57,7 @@ Welcome to the first official offering of Data 101! The schedule and dates liste
 |  | Th 11/17 | 23. [Transactions Review Lecture](https://docs.google.com/presentation/d/158td5IbI230plMIFlgsPlK9Esfh_sbeq/edit?usp=share_link&ouid=101709100734010871255&rtpof=true&sd=true) ([Recording](https://drive.google.com/file/d/1BJ0k6MaE6kXWVCVeXB67GiFQpcNzmGt_/view?usp=share_link)) | | |
 | 13 | Tu 11/22 | **No Lecture (Thanksgiving)** | | |
 |  | Th 11/24 | **No Lecture (Thanksgiving)** | | |
-| 14 | Tu 11/29 | [24. Sampling, Data Vis](https://docs.google.com/presentation/d/1YBGKK15EEY2dP3DcziEQepgFVnlAwubj/edit?usp=share_link&ouid=101709100734010871255&rtpof=true&sd=true) | | |
+| 14 | Tu 11/29 | [24. Sampling, Data Vis](https://docs.google.com/presentation/d/1YBGKK15EEY2dP3DcziEQepgFVnlAwubj/edit?usp=share_link&ouid=101709100734010871255&rtpof=true&sd=true) ([Recording](https://drive.google.com/file/d/10ppJLx2xDDwHYUsdHDyLESsm0Cbwy7OU/view?usp=share_link)) | | |
 |  | Th 12/1 | Closing Thoughts | | |
 | 15 | Tu 12/6 | **RRR Week** | | |
 |  | Th 12/8 | **RRR Week** | | |
