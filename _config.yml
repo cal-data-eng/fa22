@@ -17,8 +17,8 @@ title: Data 101
 description: Data Engineering
 author: Luke Liu
 email: lukeliu@berkeley.edu
-baseurl: / # the subpath of your site, e.g. /blog
-url: 'https://fa22.data101.org' # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: /fa22 # the subpath of your site, e.g. /blog
+url: https://data101.org # the base hostname & protocol for your site, e.g. http://example.com
 
 # Theme settings
 remote_theme: pmarsceill/just-the-docs@v0.2.5-release
