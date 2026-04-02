@@ -6,6 +6,9 @@ description: >-
     Data Engineering
 ---
 
+{: .warning }
+⚠️ This content is archived as of March 2026 and is retained exclusively for reference. [Find current offerings.](https://data101.org/)
+
 
 # Syllabus
 
